@@ -48,14 +48,14 @@
   <a href="https://www.instagram.com/itz_subhagya_7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://myaccount.google.com/?hl=en_GB" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://ww.facebook.com/profile.php?id=100083658461825&mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
   <a href="https://x.com/Hardin_02?t=K4Wufc3N7REwo4YWdGvjjA&s=08" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/h2010216" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
 
@@ -64,8 +64,6 @@
 <img align="right" height="150" src="https://indoanalytica.com/static/images/data-science-5.gif"  />
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Hardi-n/Hardi-n/output/snake.svg" alt="Snake animation" />
 
@@ -89,5 +87,9 @@
 <div align="center">
   <img height="200" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
 </div>
+
+###
+
+<p align="left">-🔭 I’m currently working on MERN stack Development  <br>  <br><br>- 🌱 I’m learning GO lang  <br>  <br><br>- ❓ Ask me about anything related to frontend technologies  , i'll try to give you the best way to use it</p>
 
 ###
