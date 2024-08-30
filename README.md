@@ -75,13 +75,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+#####
 
 <br clear="both">
 
 <img align="right" height="200" src="https://camo.githubusercontent.com/4f5720de485cd513622b5e4e6cf85e9842a07944d2e73a9f97ef989b1040473b/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d352e676966"  />
 
-###
+#####
 
 <div align="left">
   <a href="https://www.instagram.com/itz_subhagya_7?igsh=ODA1NTc5OTg5Nw==" target="_blank">
@@ -104,20 +104,20 @@
   </a>
 </div>
 
-###
+#####
 
 <br clear="both">
 <!--
 <img src="https://raw.githubusercontent.com/Hardi-n/Hardi-n/output/snake.svg" alt="Snake animation" />
 -->
-###
+#####
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Hardi-n/count.svg?"  />
 </div>
 
-###
+#####
 
 <p align="left">-🔭 I’m currently working on MERN stack Development<br><br><br>- 🌱 I’m learning GO lang<br><br><br>- ❓ Ask me about anything related to frontend technologies , i'll try to give you the best way to use it</p>
 
-###
+#####
